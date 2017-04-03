@@ -1,0 +1,727 @@
+%!Adobe-FontList 1.14
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ACaslonPro-Bold
+FamilyName:Adobe Caslon Pro
+StyleName:Bold
+FullName:Adobe Caslon Pro Bold
+MenuName:Adobe Caslon Pro Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\aharonium\Documents\Livnat Hasapir\Package\Siddur Livnat Hasapir\Document fonts\ACaslonPro-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:143368
+FileModTime:1327615860
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:120
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ACaslonPro-BoldItalic
+FamilyName:Adobe Caslon Pro
+StyleName:Bold Italic
+FullName:Adobe Caslon Pro Bold Italic
+MenuName:Adobe Caslon Pro Bold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\aharonium\Documents\Livnat Hasapir\Package\Siddur Livnat Hasapir\Document fonts\ACaslonPro-BoldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:170288
+FileModTime:1327615860
+WeightClass:700
+WidthClass:5
+AngleClass:1
+DesignSize:120
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ACaslonPro-Italic
+FamilyName:Adobe Caslon Pro
+StyleName:Italic
+FullName:Adobe Caslon Pro Italic
+MenuName:Adobe Caslon Pro
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\aharonium\Documents\Livnat Hasapir\Package\Siddur Livnat Hasapir\Document fonts\ACaslonPro-Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:169976
+FileModTime:1327615860
+WeightClass:400
+WidthClass:5
+AngleClass:1
+DesignSize:120
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ACaslonPro-Regular
+FamilyName:Adobe Caslon Pro
+StyleName:Regular
+FullName:Adobe Caslon Pro
+MenuName:Adobe Caslon Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\aharonium\Documents\Livnat Hasapir\Package\Siddur Livnat Hasapir\Document fonts\ACaslonPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:167536
+FileModTime:1327615860
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:120
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ACaslonPro-Semibold
+FamilyName:Adobe Caslon Pro
+StyleName:Semibold
+FullName:Adobe Caslon Pro Semibold
+MenuName:Adobe Caslon Pro
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\aharonium\Documents\Livnat Hasapir\Package\Siddur Livnat Hasapir\Document fonts\ACaslonPro-Semibold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:170816
+FileModTime:1327615860
+WeightClass:600
+WidthClass:5
+AngleClass:0
+DesignSize:120
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ACaslonPro-SemiboldItalic
+FamilyName:Adobe Caslon Pro
+StyleName:Semibold Italic
+FullName:Adobe Caslon Pro Semibold Italic
+MenuName:Adobe Caslon Pro
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\aharonium\Documents\Livnat Hasapir\Package\Siddur Livnat Hasapir\Document fonts\ACaslonPro-SemiboldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:172312
+FileModTime:1327615860
+WeightClass:600
+WidthClass:5
+AngleClass:1
+DesignSize:120
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AdobeHebrew-Italic
+FamilyName:Adobe Hebrew
+StyleName:Italic
+FullName:Adobe Hebrew Italic
+MenuName:Adobe Hebrew
+StyleBits:1
+FamilyNameNative:
+StyleNameNative:Italic
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:C:\Users\aharonium\Documents\Livnat Hasapir\Package\Siddur Livnat Hasapir\Document fonts\AdobeHebrew-Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:75220
+FileModTime:1329328336
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AdobeHebrew-Regular
+FamilyName:Adobe Hebrew
+StyleName:Regular
+FullName:Adobe Hebrew Regular
+MenuName:Adobe Hebrew
+StyleBits:0
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:C:\Users\aharonium\Documents\Livnat Hasapir\Package\Siddur Livnat Hasapir\Document fonts\AdobeHebrew-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:73492
+FileModTime:1329328336
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AGaramondPro-Italic
+FamilyName:Adobe Garamond Pro
+StyleName:Italic
+FullName:Adobe Garamond Pro Italic
+MenuName:Adobe Garamond Pro
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\aharonium\Documents\Livnat Hasapir\Package\Siddur Livnat Hasapir\Document fonts\AGaramondPro-Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:92132
+FileModTime:1327615860
+WeightClass:400
+WidthClass:5
+AngleClass:1
+DesignSize:120
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AGaramondPro-Regular
+FamilyName:Adobe Garamond Pro
+StyleName:Regular
+FullName:Adobe Garamond Pro
+MenuName:Adobe Garamond Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\aharonium\Documents\Livnat Hasapir\Package\Siddur Livnat Hasapir\Document fonts\AGaramondPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:126904
+FileModTime:1327615860
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:120
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Cardo
+FamilyName:Cardo
+StyleName:Regular
+FullName:Cardo
+MenuName:Cardo
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\aharonium\Documents\Livnat Hasapir\Package\Siddur Livnat Hasapir\Document fonts\Cardo104s.ttf
+DataFormat:sfntData
+FileLength:1089500
+FileModTime:1316292033
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Ebrima
+FamilyName:Ebrima
+StyleName:Regular
+FullName:Ebrima
+MenuName:Ebrima
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\aharonium\Documents\Livnat Hasapir\Package\Siddur Livnat Hasapir\Document fonts\ebrima.ttf
+DataFormat:sfntData
+FileLength:876788
+FileModTime:1468669327
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FrankRuehlCLM-Medium
+FamilyName:Frank Ruehl CLM
+StyleName:Medium
+FullName:Frank Ruehl CLM Medium
+MenuName:Frank Ruehl CLM
+StyleBits:0
+FamilyNameNative:
+StyleNameNative:Medium
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:C:\Users\aharonium\Documents\Livnat Hasapir\Package\Siddur Livnat Hasapir\Document fonts\FrankRuehlCLM-Medium_3.ttf
+DataFormat:sfntData
+FileLength:43904
+FileModTime:1351896692
+WeightClass:500
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FreeSerifItalic
+FamilyName:FreeSerif
+StyleName:Italic
+FullName:Free Serif Italic
+MenuName:FreeSerif
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\aharonium\Documents\Livnat Hasapir\Package\Siddur Livnat Hasapir\Document fonts\FreeSerifItalic_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:818584
+FileModTime:1284669418
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FreeSerif
+FamilyName:FreeSerif
+StyleName:Medium
+FullName:Free Serif
+MenuName:FreeSerif
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\aharonium\Documents\Livnat Hasapir\Package\Siddur Livnat Hasapir\Document fonts\FreeSerif_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:2184720
+FileModTime:1284902283
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GentiumBookBasic
+FamilyName:Gentium Book Basic
+StyleName:Regular
+FullName:Gentium Book Basic
+MenuName:Gentium Book Basic
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\aharonium\Documents\Livnat Hasapir\Package\Siddur Livnat Hasapir\Document fonts\GenBkBasR.ttf
+DataFormat:sfntData
+FileLength:267604
+FileModTime:1485496844
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HadasimCLM-Bold
+FamilyName:Hadasim CLM
+StyleName:Bold
+FullName:Hadasim CLM Bold
+MenuName:Hadasim CLM
+StyleBits:2
+FamilyNameNative:
+StyleNameNative:Bold
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:C:\Users\aharonium\Documents\Livnat Hasapir\Package\Siddur Livnat Hasapir\Document fonts\HadasimCLM-Bold_1.ttf
+DataFormat:sfntData
+FileLength:38076
+FileModTime:1351896692
+WeightClass:700
+WidthClass:7
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HadasimCLM-Regular
+FamilyName:Hadasim CLM
+StyleName:Regular
+FullName:Hadasim CLM Regular
+MenuName:Hadasim CLM
+StyleBits:0
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:C:\Users\aharonium\Documents\Livnat Hasapir\Package\Siddur Livnat Hasapir\Document fonts\HadasimCLM-Regular_1.ttf
+DataFormat:sfntData
+FileLength:36768
+FileModTime:1351896692
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:KozMinPro-Regular
+FamilyName:Kozuka Mincho Pro
+StyleName:R
+FullName:Kozuka Mincho Pro R
+MenuName:Kozuka Mincho Pro R
+StyleBits:0
+FamilyNameNative:小塚明朝 Pro
+StyleNameNative:R
+FullNameNative:小塚明朝 Pro R
+WritingScript:Japanese
+OutlineFileName:C:\Users\aharonium\Documents\Livnat Hasapir\Package\Siddur Livnat Hasapir\Document fonts\KozMinPro-Regular.otf
+DataFormat:sfntData
+isCFF:yes
+FileLength:4251140
+FileModTime:1332955114
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:LiberationSerif-Bold
+FamilyName:Liberation Serif
+StyleName:Bold
+FullName:Liberation Serif Bold
+MenuName:Liberation Serif
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\aharonium\Documents\Livnat Hasapir\Package\Siddur Livnat Hasapir\Document fonts\LiberationSerif-Bold.ttf
+DataFormat:sfntData
+FileLength:365112
+FileModTime:1488947328
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:LiberationSerif-Italic
+FamilyName:Liberation Serif
+StyleName:Italic
+FullName:Liberation Serif Italic
+MenuName:Liberation Serif
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\aharonium\Documents\Livnat Hasapir\Package\Siddur Livnat Hasapir\Document fonts\LiberationSerif-Italic.ttf
+DataFormat:sfntData
+FileLength:370968
+FileModTime:1488947328
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:LiberationSerif
+FamilyName:Liberation Serif
+StyleName:Regular
+FullName:Liberation Serif
+MenuName:Liberation Serif
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\aharonium\Documents\Livnat Hasapir\Package\Siddur Livnat Hasapir\Document fonts\LiberationSerif-Regular.ttf
+DataFormat:sfntData
+FileLength:388352
+FileModTime:1488947328
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:LinuxBiolinumG
+FamilyName:Linux Biolinum G
+StyleName:Regular
+FullName:Linux Biolinum G Regular
+MenuName:Linux Biolinum G
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\aharonium\Documents\Livnat Hasapir\Package\Siddur Livnat Hasapir\Document fonts\LinBiolinum_R_G.ttf
+DataFormat:sfntData
+FileLength:1937644
+FileModTime:1488947328
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-It
+FamilyName:Minion Pro
+StyleName:Italic
+FullName:Minion Pro Italic
+MenuName:Minion Pro
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\aharonium\Documents\Livnat Hasapir\Package\Siddur Livnat Hasapir\Document fonts\MinionPro-It.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:258056
+FileModTime:1329328426
+WeightClass:400
+WidthClass:5
+AngleClass:1
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\aharonium\Documents\Livnat Hasapir\Package\Siddur Livnat Hasapir\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:217280
+FileModTime:1329328426
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SBLHebrew
+FamilyName:SBL Hebrew
+StyleName:Regular
+FullName:SBL Hebrew
+MenuName:SBL Hebrew
+StyleBits:0
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:C:\Users\aharonium\Documents\Livnat Hasapir\Package\Siddur Livnat Hasapir\Document fonts\SBL_Hbrw.ttf
+DataFormat:sfntData
+FileLength:315052
+FileModTime:1263965885
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Shlomo-semiStam
+FamilyName:Shlomo semiStam
+StyleName:Regular
+FullName:Shlomo semiStam
+MenuName:Shlomo semiStam
+StyleBits:0
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:C:\Users\aharonium\Documents\Livnat Hasapir\Package\Siddur Livnat Hasapir\Document fonts\ShlomosemiStam.ttf
+DataFormat:sfntData
+FileLength:124072
+FileModTime:1362975487
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Shlomo-Stam
+FamilyName:Shlomo Stam
+StyleName:Regular
+FullName:Shlomo Stam
+MenuName:Shlomo Stam
+StyleBits:0
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:C:\Users\aharonium\Documents\Livnat Hasapir\Package\Siddur Livnat Hasapir\Document fonts\ShlomoStam.ttf
+DataFormat:sfntData
+FileLength:126408
+FileModTime:1362975482
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ShofarRegular
+FamilyName:Shofar
+StyleName:Regular
+FullName:Shofar Regular
+MenuName:Shofar
+StyleBits:0
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:C:\Users\aharonium\Documents\Livnat Hasapir\Package\Siddur Livnat Hasapir\Document fonts\ShofarRegular.ttf
+DataFormat:sfntData
+FileLength:80464
+FileModTime:1351896761
+WeightClass:500
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:StamAshkenazCLM
+FamilyName:Stam Ashkenaz CLM
+StyleName:Medium
+FullName:Stam Ashkenaz CLM
+MenuName:Stam Ashkenaz CLM
+StyleBits:0
+FamilyNameNative:
+StyleNameNative:Medium
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:C:\Users\aharonium\Documents\Livnat Hasapir\Package\Siddur Livnat Hasapir\Document fonts\StamAshkenazCLM_1.ttf
+DataFormat:sfntData
+FileLength:14968
+FileModTime:1351896692
+WeightClass:500
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Symbola
+FamilyName:Symbola
+StyleName:Regular
+FullName:Symbola
+MenuName:Symbola
+StyleBits:0
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:C:\Users\aharonium\Documents\Livnat Hasapir\Package\Siddur Livnat Hasapir\Document fonts\Symbola.ttf
+DataFormat:sfntData
+FileLength:2093324
+FileModTime:1365524898
+WeightClass:400
+WidthClass:4
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TaameyFrankCLM-Medium
+FamilyName:Taamey Frank CLM
+StyleName:Medium
+FullName:Taamey Frank CLM Medium
+MenuName:Taamey Frank CLM
+StyleBits:0
+FamilyNameNative:
+StyleNameNative:Medium
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:C:\Users\aharonium\Documents\Livnat Hasapir\Package\Siddur Livnat Hasapir\Document fonts\TaameyFrankCLM_0.ttf
+DataFormat:sfntData
+FileLength:104984
+FileModTime:1283452534
+WeightClass:500
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TimesNewRomanPSMT
+FamilyName:Times New Roman
+StyleName:Regular
+FullName:Times New Roman
+MenuName:Times New Roman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\aharonium\Documents\Livnat Hasapir\Package\Siddur Livnat Hasapir\Document fonts\times.ttf
+DataFormat:sfntData
+FileLength:1110872
+FileModTime:1468669327
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TimesNewRomanPS-ItalicMT
+FamilyName:Times New Roman
+StyleName:Italic
+FullName:Times New Roman Italic
+MenuName:Times New Roman
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\aharonium\Documents\Livnat Hasapir\Package\Siddur Livnat Hasapir\Document fonts\timesi.ttf
+DataFormat:sfntData
+FileLength:884612
+FileModTime:1468669327
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
