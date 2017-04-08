@@ -1,16 +1,24 @@
 ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
 
-PUBLICATION NAME: Siddur Livnat Hasapir 6x9 (salvage) copy.indd
+PUBLICATION NAME: Siddur Livnat Hasapir.indd
 
-PACKAGE DATE: 4/2/2017 10:20 PM
-Creation Date: 4/2/2017
-Modification Date: 4/2/2017
+PACKAGE DATE: 4/8/2017 6:57 PM
+Creation Date: 4/8/2017
+Modification Date: 4/8/2017
 
 CONTACT INFORMATION
 
 Company Name: Dimus Parrhesia Press
 Contact: Aharon N. Varady
-Email: aharon [dot] parrhesia [dot] press
+Address: 
+
+
+
+
+
+Phone: 
+Fax: 
+Email: aharon@parrhesia.press
 
 SPECIAL INSTRUCTIONS AND OTHER NOTES
 
@@ -20,10 +28,10 @@ SPECIAL INSTRUCTIONS AND OTHER NOTES
 
 
 External Plug-ins 0
-Non Opaque Objects :On Page2, 3, 4, 33, 82, 83, 84, 85, 86, 87, 88, 89, 108, 111, 204
+Non Opaque Objects :On Page2, 3, 4, 33, 82, 83, 84, 85, 86, 87, 88, 89, 108, 111, 206
 
 FONTS
-34 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
+35 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
 
 Fonts Not Packaged
 - Name: KozMinPro-Regular; Type: OpenType CID, Status: OK
@@ -42,6 +50,7 @@ Fonts Packaged
 - Name: Ebrima; Type: OpenType TrueType, Status: OK
 - Name: FrankRuehlCLM-Medium; Type: TrueType, Status: OK
 - Name: FreeSerif; Type: OpenType Type 1, Status: OK
+- Name: FreeSerifBold; Type: OpenType Type 1, Status: OK
 - Name: FreeSerifItalic; Type: OpenType Type 1, Status: OK
 - Name: GentiumBookBasic; Type: TrueType, Status: OK
 - Name: HadasimCLM-Bold; Type: TrueType, Status: OK
@@ -74,8 +83,8 @@ COLORS AND INKS
 
 LINKS AND IMAGES
 (Missing & Embedded Links Only)
-Links and Images: 48 Links Found; 0 Modified, 0 Missing 0 Inaccessible
-Images: 0 Embedded, 46 use RGB color space
+Links and Images: 49 Links Found; 0 Modified, 0 Missing 0 Inaccessible
+Images: 0 Embedded, 47 use RGB color space
 
 
 PRINT SETTINGS
@@ -105,7 +114,7 @@ Flip Mode: Off
 
 FILE PACKAGE LIST
 
-1. Siddur Livnat Hasapir 6x9 (salvage) copy.indd; type: Adobe InDesign publication; size: 0K
+1. Siddur Livnat Hasapir.indd; type: Adobe InDesign publication; size: 0K
 2. KozMinPro-Regular.otf; type: Font file; size: 4151K
 3. ACaslonPro-Bold.otf; type: Font file; size: 140K
 4. ACaslonPro-BoldItalic.otf; type: Font file; size: 166K
@@ -121,22 +130,23 @@ FILE PACKAGE LIST
 14. ebrima.ttf; type: Font file; size: 856K
 15. FrankRuehlCLM-Medium_3.ttf; type: Font file; size: 42K
 16. FreeSerif_0.otf; type: Font file; size: 2133K
-17. FreeSerifItalic_0.otf; type: Font file; size: 799K
-18. GenBkBasR.ttf; type: Font file; size: 261K
-19. HadasimCLM-Bold_1.ttf; type: Font file; size: 37K
-20. HadasimCLM-Regular_1.ttf; type: Font file; size: 35K
-21. LiberationSerif-Regular.ttf; type: Font file; size: 379K
-22. LiberationSerif-Bold.ttf; type: Font file; size: 356K
-23. LiberationSerif-Italic.ttf; type: Font file; size: 362K
-24. LinBiolinum_R_G.ttf; type: Font file; size: 1892K
-25. MinionPro-It.otf; type: Font file; size: 252K
-26. MinionPro-Regular.otf; type: Font file; size: 212K
-27. SBL_Hbrw.ttf; type: Font file; size: 307K
-28. ShlomoStam.ttf; type: Font file; size: 123K
-29. ShlomosemiStam.ttf; type: Font file; size: 121K
-30. ShofarRegular.ttf; type: Font file; size: 78K
-31. StamAshkenazCLM_1.ttf; type: Font file; size: 14K
-32. Symbola.ttf; type: Font file; size: 2044K
-33. TaameyFrankCLM_0.ttf; type: Font file; size: 102K
-34. timesi.ttf; type: Font file; size: 863K
-35. times.ttf; type: Font file; size: 1084K
+17. FreeSerifBold_0.otf; type: Font file; size: 604K
+18. FreeSerifItalic_0.otf; type: Font file; size: 799K
+19. GenBkBasR.ttf; type: Font file; size: 261K
+20. HadasimCLM-Bold_1.ttf; type: Font file; size: 37K
+21. HadasimCLM-Regular_1.ttf; type: Font file; size: 35K
+22. LiberationSerif-Regular.ttf; type: Font file; size: 379K
+23. LiberationSerif-Bold.ttf; type: Font file; size: 356K
+24. LiberationSerif-Italic.ttf; type: Font file; size: 362K
+25. LinBiolinum_R_G.ttf; type: Font file; size: 1892K
+26. MinionPro-It.otf; type: Font file; size: 252K
+27. MinionPro-Regular.otf; type: Font file; size: 212K
+28. SBL_Hbrw.ttf; type: Font file; size: 307K
+29. ShlomoStam.ttf; type: Font file; size: 123K
+30. ShlomosemiStam.ttf; type: Font file; size: 121K
+31. ShofarRegular.ttf; type: Font file; size: 78K
+32. StamAshkenazCLM_1.ttf; type: Font file; size: 14K
+33. Symbola.ttf; type: Font file; size: 2044K
+34. TaameyFrankCLM_0.ttf; type: Font file; size: 102K
+35. timesi.ttf; type: Font file; size: 863K
+36. times.ttf; type: Font file; size: 1084K
