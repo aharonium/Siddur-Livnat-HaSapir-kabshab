@@ -2,9 +2,9 @@ ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
 
 PUBLICATION NAME: Siddur Livnat Hasapir.indd
 
-PACKAGE DATE: 4/8/2017 6:57 PM
-Creation Date: 4/8/2017
-Modification Date: 4/8/2017
+PACKAGE DATE: 5/2/2017 1:09 AM
+Creation Date: 5/2/2017
+Modification Date: 5/2/2017
 
 CONTACT INFORMATION
 
@@ -22,19 +22,17 @@ Email: aharon@parrhesia.press
 
 SPECIAL INSTRUCTIONS AND OTHER NOTES
 
-
-
+CC BY-SA 4.0 International 
+https://creativecommons.org/licenses/by-sa/4.0/
 
 
 
 External Plug-ins 0
-Non Opaque Objects :On Page2, 3, 4, 33, 82, 83, 84, 85, 86, 87, 88, 89, 108, 111, 206
+Non Opaque Objects :On PagePB, 2, 3, 4, 33, 82, 83, 84, 85, 86, 87, 88, 89, 108, 111, 206
 
 FONTS
-35 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
+34 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
 
-Fonts Not Packaged
-- Name: KozMinPro-Regular; Type: OpenType CID, Status: OK
 Fonts Packaged
 - Name: ACaslonPro-Bold; Type: OpenType Type 1, Status: OK
 - Name: ACaslonPro-BoldItalic; Type: OpenType Type 1, Status: OK
@@ -42,6 +40,7 @@ Fonts Packaged
 - Name: ACaslonPro-Regular; Type: OpenType Type 1, Status: OK
 - Name: ACaslonPro-Semibold; Type: OpenType Type 1, Status: OK
 - Name: ACaslonPro-SemiboldItalic; Type: OpenType Type 1, Status: OK
+- Name: AGaramondPro-Bold; Type: OpenType Type 1, Status: OK
 - Name: AGaramondPro-Italic; Type: OpenType Type 1, Status: OK
 - Name: AGaramondPro-Regular; Type: OpenType Type 1, Status: OK
 - Name: AdobeHebrew-Italic; Type: OpenType Type 1, Status: OK
@@ -52,14 +51,13 @@ Fonts Packaged
 - Name: FreeSerif; Type: OpenType Type 1, Status: OK
 - Name: FreeSerifBold; Type: OpenType Type 1, Status: OK
 - Name: FreeSerifItalic; Type: OpenType Type 1, Status: OK
-- Name: GentiumBookBasic; Type: TrueType, Status: OK
 - Name: HadasimCLM-Bold; Type: TrueType, Status: OK
 - Name: HadasimCLM-Regular; Type: TrueType, Status: OK
+- Name: Lateef; Type: TrueType, Status: OK
 - Name: LiberationSerif; Type: TrueType, Status: OK
 - Name: LiberationSerif-Bold; Type: TrueType, Status: OK
 - Name: LiberationSerif-Italic; Type: TrueType, Status: OK
 - Name: LinuxBiolinumG; Type: TrueType, Status: OK
-- Name: MinionPro-It; Type: OpenType Type 1, Status: OK
 - Name: MinionPro-Regular; Type: OpenType Type 1, Status: OK
 - Name: SBLHebrew; Type: TrueType, Status: OK
 - Name: Shlomo-Stam; Type: TrueType, Status: OK
@@ -83,8 +81,8 @@ COLORS AND INKS
 
 LINKS AND IMAGES
 (Missing & Embedded Links Only)
-Links and Images: 49 Links Found; 0 Modified, 0 Missing 0 Inaccessible
-Images: 0 Embedded, 47 use RGB color space
+Links and Images: 48 Links Found; 0 Modified, 0 Missing 0 Inaccessible
+Images: 0 Embedded, 46 use RGB color space
 
 
 PRINT SETTINGS
@@ -115,13 +113,13 @@ Flip Mode: Off
 FILE PACKAGE LIST
 
 1. Siddur Livnat Hasapir.indd; type: Adobe InDesign publication; size: 0K
-2. KozMinPro-Regular.otf; type: Font file; size: 4151K
-3. ACaslonPro-Bold.otf; type: Font file; size: 140K
-4. ACaslonPro-BoldItalic.otf; type: Font file; size: 166K
-5. ACaslonPro-Italic.otf; type: Font file; size: 165K
-6. ACaslonPro-Regular.otf; type: Font file; size: 163K
-7. ACaslonPro-Semibold.otf; type: Font file; size: 166K
-8. ACaslonPro-SemiboldItalic.otf; type: Font file; size: 168K
+2. ACaslonPro-Bold.otf; type: Font file; size: 140K
+3. ACaslonPro-BoldItalic.otf; type: Font file; size: 166K
+4. ACaslonPro-Italic.otf; type: Font file; size: 165K
+5. ACaslonPro-Regular.otf; type: Font file; size: 163K
+6. ACaslonPro-Semibold.otf; type: Font file; size: 166K
+7. ACaslonPro-SemiboldItalic.otf; type: Font file; size: 168K
+8. AGaramondPro-Bold.otf; type: Font file; size: 73K
 9. AGaramondPro-Italic.otf; type: Font file; size: 89K
 10. AGaramondPro-Regular.otf; type: Font file; size: 123K
 11. AdobeHebrew-Italic.otf; type: Font file; size: 73K
@@ -132,21 +130,20 @@ FILE PACKAGE LIST
 16. FreeSerif_0.otf; type: Font file; size: 2133K
 17. FreeSerifBold_0.otf; type: Font file; size: 604K
 18. FreeSerifItalic_0.otf; type: Font file; size: 799K
-19. GenBkBasR.ttf; type: Font file; size: 261K
-20. HadasimCLM-Bold_1.ttf; type: Font file; size: 37K
-21. HadasimCLM-Regular_1.ttf; type: Font file; size: 35K
+19. HadasimCLM-Bold_1.ttf; type: Font file; size: 37K
+20. HadasimCLM-Regular_1.ttf; type: Font file; size: 35K
+21. LateefRegOT.ttf; type: Font file; size: 240K
 22. LiberationSerif-Regular.ttf; type: Font file; size: 379K
 23. LiberationSerif-Bold.ttf; type: Font file; size: 356K
 24. LiberationSerif-Italic.ttf; type: Font file; size: 362K
 25. LinBiolinum_R_G.ttf; type: Font file; size: 1892K
-26. MinionPro-It.otf; type: Font file; size: 252K
-27. MinionPro-Regular.otf; type: Font file; size: 212K
-28. SBL_Hbrw.ttf; type: Font file; size: 307K
-29. ShlomoStam.ttf; type: Font file; size: 123K
-30. ShlomosemiStam.ttf; type: Font file; size: 121K
-31. ShofarRegular.ttf; type: Font file; size: 78K
-32. StamAshkenazCLM_1.ttf; type: Font file; size: 14K
-33. Symbola.ttf; type: Font file; size: 2044K
-34. TaameyFrankCLM_0.ttf; type: Font file; size: 102K
-35. timesi.ttf; type: Font file; size: 863K
-36. times.ttf; type: Font file; size: 1084K
+26. MinionPro-Regular.otf; type: Font file; size: 212K
+27. SBL_Hbrw.ttf; type: Font file; size: 307K
+28. ShlomoStam.ttf; type: Font file; size: 123K
+29. ShlomosemiStam.ttf; type: Font file; size: 121K
+30. ShofarRegular.ttf; type: Font file; size: 78K
+31. StamAshkenazCLM_1.ttf; type: Font file; size: 14K
+32. Symbola.ttf; type: Font file; size: 2044K
+33. TaameyFrankCLM_0.ttf; type: Font file; size: 102K
+34. timesi.ttf; type: Font file; size: 863K
+35. times.ttf; type: Font file; size: 1084K

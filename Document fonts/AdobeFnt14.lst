@@ -11,7 +11,7 @@ FullName:Adobe Caslon Pro Bold
 MenuName:Adobe Caslon Pro Bold
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:F:\phloem\Projects\Livnat Hasapir\Siddur Livnat Hasapir Folder\Document fonts\ACaslonPro-Bold.otf
+OutlineFileName:F:\phloem\Projects\Livnat Hasapir\package\Document fonts\ACaslonPro-Bold.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -33,7 +33,7 @@ FullName:Adobe Caslon Pro Bold Italic
 MenuName:Adobe Caslon Pro Bold
 StyleBits:1
 WritingScript:Roman
-OutlineFileName:F:\phloem\Projects\Livnat Hasapir\Siddur Livnat Hasapir Folder\Document fonts\ACaslonPro-BoldItalic.otf
+OutlineFileName:F:\phloem\Projects\Livnat Hasapir\package\Document fonts\ACaslonPro-BoldItalic.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -55,7 +55,7 @@ FullName:Adobe Caslon Pro Italic
 MenuName:Adobe Caslon Pro
 StyleBits:1
 WritingScript:Roman
-OutlineFileName:F:\phloem\Projects\Livnat Hasapir\Siddur Livnat Hasapir Folder\Document fonts\ACaslonPro-Italic.otf
+OutlineFileName:F:\phloem\Projects\Livnat Hasapir\package\Document fonts\ACaslonPro-Italic.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -77,7 +77,7 @@ FullName:Adobe Caslon Pro
 MenuName:Adobe Caslon Pro
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:F:\phloem\Projects\Livnat Hasapir\Siddur Livnat Hasapir Folder\Document fonts\ACaslonPro-Regular.otf
+OutlineFileName:F:\phloem\Projects\Livnat Hasapir\package\Document fonts\ACaslonPro-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -99,7 +99,7 @@ FullName:Adobe Caslon Pro Semibold
 MenuName:Adobe Caslon Pro
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:F:\phloem\Projects\Livnat Hasapir\Siddur Livnat Hasapir Folder\Document fonts\ACaslonPro-Semibold.otf
+OutlineFileName:F:\phloem\Projects\Livnat Hasapir\package\Document fonts\ACaslonPro-Semibold.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -121,7 +121,7 @@ FullName:Adobe Caslon Pro Semibold Italic
 MenuName:Adobe Caslon Pro
 StyleBits:3
 WritingScript:Roman
-OutlineFileName:F:\phloem\Projects\Livnat Hasapir\Siddur Livnat Hasapir Folder\Document fonts\ACaslonPro-SemiboldItalic.otf
+OutlineFileName:F:\phloem\Projects\Livnat Hasapir\package\Document fonts\ACaslonPro-SemiboldItalic.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -146,7 +146,7 @@ FamilyNameNative:
 StyleNameNative:Italic
 FullNameNative:
 WritingScript:Hebrew
-OutlineFileName:F:\phloem\Projects\Livnat Hasapir\Siddur Livnat Hasapir Folder\Document fonts\AdobeHebrew-Italic.otf
+OutlineFileName:F:\phloem\Projects\Livnat Hasapir\package\Document fonts\AdobeHebrew-Italic.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -170,7 +170,7 @@ FamilyNameNative:
 StyleNameNative:Regular
 FullNameNative:
 WritingScript:Hebrew
-OutlineFileName:F:\phloem\Projects\Livnat Hasapir\Siddur Livnat Hasapir Folder\Document fonts\AdobeHebrew-Regular.otf
+OutlineFileName:F:\phloem\Projects\Livnat Hasapir\package\Document fonts\AdobeHebrew-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -184,6 +184,28 @@ AngleClass:0
 %BeginFont
 Handler:DirectoryHandler
 FontType:Type1
+FontName:AGaramondPro-Bold
+FamilyName:Adobe Garamond Pro
+StyleName:Bold
+FullName:Adobe Garamond Pro Bold
+MenuName:Adobe Garamond Pro Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:F:\phloem\Projects\Livnat Hasapir\package\Document fonts\AGaramondPro-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:75376
+FileModTime:1327615860
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:120
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
 FontName:AGaramondPro-Italic
 FamilyName:Adobe Garamond Pro
 StyleName:Italic
@@ -191,7 +213,7 @@ FullName:Adobe Garamond Pro Italic
 MenuName:Adobe Garamond Pro
 StyleBits:1
 WritingScript:Roman
-OutlineFileName:F:\phloem\Projects\Livnat Hasapir\Siddur Livnat Hasapir Folder\Document fonts\AGaramondPro-Italic.otf
+OutlineFileName:F:\phloem\Projects\Livnat Hasapir\package\Document fonts\AGaramondPro-Italic.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -213,7 +235,7 @@ FullName:Adobe Garamond Pro
 MenuName:Adobe Garamond Pro
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:F:\phloem\Projects\Livnat Hasapir\Siddur Livnat Hasapir Folder\Document fonts\AGaramondPro-Regular.otf
+OutlineFileName:F:\phloem\Projects\Livnat Hasapir\package\Document fonts\AGaramondPro-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -235,7 +257,7 @@ FullName:Cardo
 MenuName:Cardo
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:F:\phloem\Projects\Livnat Hasapir\Siddur Livnat Hasapir Folder\Document fonts\Cardo104s.ttf
+OutlineFileName:F:\phloem\Projects\Livnat Hasapir\package\Document fonts\Cardo104s.ttf
 DataFormat:sfntData
 FileLength:1089500
 FileModTime:1316292033
@@ -254,7 +276,7 @@ FullName:Ebrima
 MenuName:Ebrima
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:F:\phloem\Projects\Livnat Hasapir\Siddur Livnat Hasapir Folder\Document fonts\ebrima.ttf
+OutlineFileName:F:\phloem\Projects\Livnat Hasapir\package\Document fonts\ebrima.ttf
 DataFormat:sfntData
 FileLength:876788
 FileModTime:1468669327
@@ -276,7 +298,7 @@ FamilyNameNative:
 StyleNameNative:Medium
 FullNameNative:
 WritingScript:Hebrew
-OutlineFileName:F:\phloem\Projects\Livnat Hasapir\Siddur Livnat Hasapir Folder\Document fonts\FrankRuehlCLM-Medium_3.ttf
+OutlineFileName:F:\phloem\Projects\Livnat Hasapir\package\Document fonts\FrankRuehlCLM-Medium_3.ttf
 DataFormat:sfntData
 FileLength:43904
 FileModTime:1351896692
@@ -295,7 +317,7 @@ FullName:Free Serif Bold
 MenuName:FreeSerif
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:F:\phloem\Projects\Livnat Hasapir\Siddur Livnat Hasapir Folder\Document fonts\FreeSerifBold_0.otf
+OutlineFileName:F:\phloem\Projects\Livnat Hasapir\package\Document fonts\FreeSerifBold_0.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -316,7 +338,7 @@ FullName:Free Serif Italic
 MenuName:FreeSerif
 StyleBits:1
 WritingScript:Roman
-OutlineFileName:F:\phloem\Projects\Livnat Hasapir\Siddur Livnat Hasapir Folder\Document fonts\FreeSerifItalic_0.otf
+OutlineFileName:F:\phloem\Projects\Livnat Hasapir\package\Document fonts\FreeSerifItalic_0.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -337,31 +359,12 @@ FullName:Free Serif
 MenuName:FreeSerif
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:F:\phloem\Projects\Livnat Hasapir\Siddur Livnat Hasapir Folder\Document fonts\FreeSerif_0.otf
+OutlineFileName:F:\phloem\Projects\Livnat Hasapir\package\Document fonts\FreeSerif_0.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:2184720
 FileModTime:1284902283
-WeightClass:400
-WidthClass:5
-AngleClass:0
-%EndFont
-
-%BeginFont
-Handler:DirectoryHandler
-FontType:TrueType
-FontName:GentiumBookBasic
-FamilyName:Gentium Book Basic
-StyleName:Regular
-FullName:Gentium Book Basic
-MenuName:Gentium Book Basic
-StyleBits:0
-WritingScript:Roman
-OutlineFileName:F:\phloem\Projects\Livnat Hasapir\Siddur Livnat Hasapir Folder\Document fonts\GenBkBasR.ttf
-DataFormat:sfntData
-FileLength:267604
-FileModTime:1485496844
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -380,7 +383,7 @@ FamilyNameNative:
 StyleNameNative:Bold
 FullNameNative:
 WritingScript:Hebrew
-OutlineFileName:F:\phloem\Projects\Livnat Hasapir\Siddur Livnat Hasapir Folder\Document fonts\HadasimCLM-Bold_1.ttf
+OutlineFileName:F:\phloem\Projects\Livnat Hasapir\package\Document fonts\HadasimCLM-Bold_1.ttf
 DataFormat:sfntData
 FileLength:38076
 FileModTime:1351896692
@@ -402,7 +405,7 @@ FamilyNameNative:
 StyleNameNative:Regular
 FullNameNative:
 WritingScript:Hebrew
-OutlineFileName:F:\phloem\Projects\Livnat Hasapir\Siddur Livnat Hasapir Folder\Document fonts\HadasimCLM-Regular_1.ttf
+OutlineFileName:F:\phloem\Projects\Livnat Hasapir\package\Document fonts\HadasimCLM-Regular_1.ttf
 DataFormat:sfntData
 FileLength:36768
 FileModTime:1351896692
@@ -413,22 +416,21 @@ AngleClass:0
 
 %BeginFont
 Handler:DirectoryHandler
-FontType:CID
-FontName:KozMinPro-Regular
-FamilyName:Kozuka Mincho Pro
-StyleName:R
-FullName:Kozuka Mincho Pro R
-MenuName:Kozuka Mincho Pro R
+FontType:TrueType
+FontName:Lateef
+FamilyName:Lateef
+StyleName:Regular
+FullName:Lateef
+MenuName:Lateef
 StyleBits:0
-FamilyNameNative:小塚明朝 Pro
-StyleNameNative:R
-FullNameNative:小塚明朝 Pro R
-WritingScript:Japanese
-OutlineFileName:F:\phloem\Projects\Livnat Hasapir\Siddur Livnat Hasapir Folder\Document fonts\KozMinPro-Regular.otf
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Arabic
+OutlineFileName:F:\phloem\Projects\Livnat Hasapir\package\Document fonts\LateefRegOT.ttf
 DataFormat:sfntData
-isCFF:yes
-FileLength:4251140
-FileModTime:1332955114
+FileLength:246224
+FileModTime:1310489945
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -444,7 +446,7 @@ FullName:Liberation Serif Bold
 MenuName:Liberation Serif
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:F:\phloem\Projects\Livnat Hasapir\Siddur Livnat Hasapir Folder\Document fonts\LiberationSerif-Bold.ttf
+OutlineFileName:F:\phloem\Projects\Livnat Hasapir\package\Document fonts\LiberationSerif-Bold.ttf
 DataFormat:sfntData
 FileLength:365112
 FileModTime:1488947328
@@ -463,7 +465,7 @@ FullName:Liberation Serif Italic
 MenuName:Liberation Serif
 StyleBits:1
 WritingScript:Roman
-OutlineFileName:F:\phloem\Projects\Livnat Hasapir\Siddur Livnat Hasapir Folder\Document fonts\LiberationSerif-Italic.ttf
+OutlineFileName:F:\phloem\Projects\Livnat Hasapir\package\Document fonts\LiberationSerif-Italic.ttf
 DataFormat:sfntData
 FileLength:370968
 FileModTime:1488947328
@@ -482,7 +484,7 @@ FullName:Liberation Serif
 MenuName:Liberation Serif
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:F:\phloem\Projects\Livnat Hasapir\Siddur Livnat Hasapir Folder\Document fonts\LiberationSerif-Regular.ttf
+OutlineFileName:F:\phloem\Projects\Livnat Hasapir\package\Document fonts\LiberationSerif-Regular.ttf
 DataFormat:sfntData
 FileLength:388352
 FileModTime:1488947328
@@ -501,35 +503,13 @@ FullName:Linux Biolinum G Regular
 MenuName:Linux Biolinum G
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:F:\phloem\Projects\Livnat Hasapir\Siddur Livnat Hasapir Folder\Document fonts\LinBiolinum_R_G.ttf
+OutlineFileName:F:\phloem\Projects\Livnat Hasapir\package\Document fonts\LinBiolinum_R_G.ttf
 DataFormat:sfntData
 FileLength:1937644
 FileModTime:1488947328
 WeightClass:400
 WidthClass:5
 AngleClass:0
-%EndFont
-
-%BeginFont
-Handler:DirectoryHandler
-FontType:Type1
-FontName:MinionPro-It
-FamilyName:Minion Pro
-StyleName:Italic
-FullName:Minion Pro Italic
-MenuName:Minion Pro
-StyleBits:1
-WritingScript:Roman
-OutlineFileName:F:\phloem\Projects\Livnat Hasapir\Siddur Livnat Hasapir Folder\Document fonts\MinionPro-It.otf
-DataFormat:sfntData
-UsesStandardEncoding:yes
-isCFF:yes
-FileLength:258056
-FileModTime:1329328426
-WeightClass:400
-WidthClass:5
-AngleClass:1
-DesignSize:110
 %EndFont
 
 %BeginFont
@@ -542,7 +522,7 @@ FullName:Minion Pro
 MenuName:Minion Pro
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:F:\phloem\Projects\Livnat Hasapir\Siddur Livnat Hasapir Folder\Document fonts\MinionPro-Regular.otf
+OutlineFileName:F:\phloem\Projects\Livnat Hasapir\package\Document fonts\MinionPro-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -567,7 +547,7 @@ FamilyNameNative:
 StyleNameNative:Regular
 FullNameNative:
 WritingScript:Hebrew
-OutlineFileName:F:\phloem\Projects\Livnat Hasapir\Siddur Livnat Hasapir Folder\Document fonts\SBL_Hbrw.ttf
+OutlineFileName:F:\phloem\Projects\Livnat Hasapir\package\Document fonts\SBL_Hbrw.ttf
 DataFormat:sfntData
 FileLength:315052
 FileModTime:1263965885
@@ -589,7 +569,7 @@ FamilyNameNative:
 StyleNameNative:Regular
 FullNameNative:
 WritingScript:Hebrew
-OutlineFileName:F:\phloem\Projects\Livnat Hasapir\Siddur Livnat Hasapir Folder\Document fonts\ShlomosemiStam.ttf
+OutlineFileName:F:\phloem\Projects\Livnat Hasapir\package\Document fonts\ShlomosemiStam.ttf
 DataFormat:sfntData
 FileLength:124072
 FileModTime:1362975487
@@ -611,7 +591,7 @@ FamilyNameNative:
 StyleNameNative:Regular
 FullNameNative:
 WritingScript:Hebrew
-OutlineFileName:F:\phloem\Projects\Livnat Hasapir\Siddur Livnat Hasapir Folder\Document fonts\ShlomoStam.ttf
+OutlineFileName:F:\phloem\Projects\Livnat Hasapir\package\Document fonts\ShlomoStam.ttf
 DataFormat:sfntData
 FileLength:126408
 FileModTime:1362975482
@@ -633,7 +613,7 @@ FamilyNameNative:
 StyleNameNative:Regular
 FullNameNative:
 WritingScript:Hebrew
-OutlineFileName:F:\phloem\Projects\Livnat Hasapir\Siddur Livnat Hasapir Folder\Document fonts\ShofarRegular.ttf
+OutlineFileName:F:\phloem\Projects\Livnat Hasapir\package\Document fonts\ShofarRegular.ttf
 DataFormat:sfntData
 FileLength:80464
 FileModTime:1351896761
@@ -655,7 +635,7 @@ FamilyNameNative:
 StyleNameNative:Medium
 FullNameNative:
 WritingScript:Hebrew
-OutlineFileName:F:\phloem\Projects\Livnat Hasapir\Siddur Livnat Hasapir Folder\Document fonts\StamAshkenazCLM_1.ttf
+OutlineFileName:F:\phloem\Projects\Livnat Hasapir\package\Document fonts\StamAshkenazCLM_1.ttf
 DataFormat:sfntData
 FileLength:14968
 FileModTime:1351896692
@@ -677,7 +657,7 @@ FamilyNameNative:
 StyleNameNative:Regular
 FullNameNative:
 WritingScript:Cyrillic
-OutlineFileName:F:\phloem\Projects\Livnat Hasapir\Siddur Livnat Hasapir Folder\Document fonts\Symbola.ttf
+OutlineFileName:F:\phloem\Projects\Livnat Hasapir\package\Document fonts\Symbola.ttf
 DataFormat:sfntData
 FileLength:2093324
 FileModTime:1365524898
@@ -699,7 +679,7 @@ FamilyNameNative:
 StyleNameNative:Medium
 FullNameNative:
 WritingScript:Hebrew
-OutlineFileName:F:\phloem\Projects\Livnat Hasapir\Siddur Livnat Hasapir Folder\Document fonts\TaameyFrankCLM_0.ttf
+OutlineFileName:F:\phloem\Projects\Livnat Hasapir\package\Document fonts\TaameyFrankCLM_0.ttf
 DataFormat:sfntData
 FileLength:104984
 FileModTime:1283452534
@@ -718,7 +698,7 @@ FullName:Times New Roman
 MenuName:Times New Roman
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:F:\phloem\Projects\Livnat Hasapir\Siddur Livnat Hasapir Folder\Document fonts\times.ttf
+OutlineFileName:F:\phloem\Projects\Livnat Hasapir\package\Document fonts\times.ttf
 DataFormat:sfntData
 FileLength:1110872
 FileModTime:1468669327
@@ -737,7 +717,7 @@ FullName:Times New Roman Italic
 MenuName:Times New Roman
 StyleBits:1
 WritingScript:Roman
-OutlineFileName:F:\phloem\Projects\Livnat Hasapir\Siddur Livnat Hasapir Folder\Document fonts\timesi.ttf
+OutlineFileName:F:\phloem\Projects\Livnat Hasapir\package\Document fonts\timesi.ttf
 DataFormat:sfntData
 FileLength:884612
 FileModTime:1468669327
