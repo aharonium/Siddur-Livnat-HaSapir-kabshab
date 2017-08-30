@@ -2,9 +2,9 @@ ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
 
 PUBLICATION NAME: Siddur Livnat Hasapir.indd
 
-PACKAGE DATE: 6/5/2017 9:37 AM
-Creation Date: 6/5/2017
-Modification Date: 6/5/2017
+PACKAGE DATE: 8/29/2017 9:00 PM
+Creation Date: 8/29/2017
+Modification Date: 8/29/2017
 
 CONTACT INFORMATION
 
@@ -28,7 +28,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 
 External Plug-ins 0
-Non Opaque Objects :On PagePB, 2, 3, 4, 33, 82, 83, 84, 85, 86, 87, 88, 89, 108, 111, 206
+Non Opaque Objects :On PagePB, 2, 3, 4, 33, 42, 43, 44, 45, 84, 85, 86, 87, 88, 89, 90, 91, 110, 113, 208
 
 FONTS
 34 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
@@ -81,8 +81,8 @@ COLORS AND INKS
 
 LINKS AND IMAGES
 (Missing & Embedded Links Only)
-Links and Images: 48 Links Found; 0 Modified, 0 Missing 0 Inaccessible
-Images: 0 Embedded, 46 use RGB color space
+Links and Images: 53 Links Found; 0 Modified, 0 Missing 0 Inaccessible
+Images: 0 Embedded, 51 use RGB color space
 
 
 PRINT SETTINGS
